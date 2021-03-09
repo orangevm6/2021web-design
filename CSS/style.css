@@ -1,3 +1,22 @@
 h1 {
-    color:rgb(255, 175, 55);
+   background-color: rgb(255, 166, 34);
+   font-size: 20px;
+   text-align: center;
 }
+
+.box-a {
+   background-color: lightgray;
+   padding: 30px;
+   border: 3px solid black;
+   margin-bottom: 20px;
+   width: 200px;
+   height: 150px;
+   box-sizing: border-box;
+ }
+ 
+ .box-b {
+   background-color: orange;
+   width: 200px;
+   height: 150px;
+ }
+ 
